@@ -1,9 +1,9 @@
 # KartaKarta
 
-##Aufgabenstellung
+## Aufgabenstellung
 Hier ist mein Text
 
-##Inhalt
+## Inhalt
 Hier ist mein Inhalt
 
 ## Reflexion / Verifikation
