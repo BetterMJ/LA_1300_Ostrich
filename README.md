@@ -31,7 +31,6 @@ Raten-Funktion:
 [![](https://i.imgur.com/8rlDCUI.jpg)](https://youtu.be/4-XPr_A8YWI)
 
 ## Reflexion / Verifikation
-Ich fand gut, dass ich nicht zu viel Zeit mit einzelnen Funktionen verbracht habe und mir Hilfe bei den Teammitgliedern geholt habe, wenn ich sie bruachte. 
-Nächstes Mal werde ich defenitiv schauen, dass ich mehr mit `static void BeispielGenerieren()` werde arbeiten, damit der Code übersichtlicher wird und keine Kommentare braucht.
+Ich fand gut, dass ich nicht zu viel Zeit mit einzelnen Funktionen verbracht und habe mir Hilfe bei den Teammitgliedern geholt habe, wenn ich sie brauchte. Nächstes Mal werde ich definitiv schauen, dass ich mehr mit static void BeispielGenerieren() werde arbeiten, damit der Code übersichtlicher wird und keine Kommentare braucht.
 
-Mein Banknachbar versteht wie man Konsolenfarben ändert, Zufallszahlen generiert und in einem Integer speichert. Er lernte aber auch was FiggleFonts ist und wie man es anwenden kann, um seine Konsole mit Titel zu beschmücken oder Ähnlichem.
+Mein Banknachbar versteht wie man Konsolenfarben ändert, Zufallszahlen generiert und in einem Integer speichert. Er lernte aber auch, was FiggleFonts ist und wie man es anwenden kann, um seine Konsole mit Titel zu beschmücken oder Ähnlichem.
