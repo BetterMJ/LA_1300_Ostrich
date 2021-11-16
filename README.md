@@ -1,4 +1,4 @@
-# KartaKarta
+# Gruppe Ostrich - KartaKarta 69187
 
 ## Aufgabenstellung
 Hier ist mein Text
