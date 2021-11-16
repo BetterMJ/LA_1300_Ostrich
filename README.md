@@ -22,9 +22,11 @@ Zum Schluss muss man jetzt nur noch das Wort aus der Liste nehmen, wenn es berei
 
 ### C# - Code
 Dieses Bild stellt FiggleFonts und Console.ForegroundColor dar mit "AND GO!":
+.
 ![Programm](https://i.imgur.com/onciX4X.jpg)
 
 Raten-Funktion:
+.
 ![Code1](https://i.imgur.com/EB0i6eV.jpg)
 ![Code2](https://i.imgur.com/9YVPzJS.jpg)
 ### Video
