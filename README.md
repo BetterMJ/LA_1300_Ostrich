@@ -19,7 +19,7 @@ Zum Schluss muss man jetzt nur noch das Wort aus der Liste nehmen, wenn es berei
 ### Bilder
 "AND GO!" wurde mit FiggleFonts erstellt und die Farben mit Console.ForegroundColor:
 ![Programm](https://i.imgur.com/COBuhht.jpg)
-### C#
+### C# - Code
 ![Programm](https://i.imgur.com/onciX4X.jpg)
 ![Code1](https://i.imgur.com/EB0i6eV.jpg)
 ![Code2](https://i.imgur.com/9YVPzJS.jpg)
