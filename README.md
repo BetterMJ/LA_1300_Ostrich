@@ -10,7 +10,7 @@ Dieses Projekt haben wir als Schularbeit in einer 4er Gruppe gemacht. Das Progra
 
 ## Inhalt
 ### Was ist FiggleFonts?
-FiggleFonts ist eine NuGet extension für C# Konsol Applikationen, welches sehr nützlich für die Gestaltung der Konsole ist. Mit einem einfachen Text kommt eine grössere Variante des Textes heraus, welches man zum Beispiel als Titel nutzen kann oder als sonstige Gestaltungen, hier ein Beispiel mit C#:
+FiggleFonts ist eine NuGet Erweiterung für C# Konsol Applikationen, welches sehr nützlich für die Gestaltung der Konsole ist. Mit einem einfachen Text kommt eine grössere Variante des Textes heraus, welches man zum Beispiel als Titel nutzen kann oder als sonstige Gestaltungen, hier ein Beispiel mit C#:
 `Console.WriteLine(Figgle.FiggleFonts.Standard.Render("Test"));`
 ### Raten
 Stell dir vor, dass wir englische Wörter und die dazugehörigen deutschen Wörter beide in einer Liste haben. Nun muss man eine Zufallszahl erstellen, um zu entscheiden, ob das richtige dazugehörige Wort zu jenem englischen Wort soll herausgeben oder das falsche dazugehörige Wort. Jetzt ist das schwierigste schon gemacht, jetzt muss man nur noch schauen, dass es ein zufälliges englisches Wort abfragt, um dies zu machen brauchen wir die Zufallsfunktion, um zu entscheiden, welches Wort aus der Liste abgefragt werden soll. Mit der Funktion `int random = Random().Next(1,3)` ⇨ generiert Zahl 1 oder 2 und speichert diese im integer "random".
